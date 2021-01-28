@@ -1,0 +1,17 @@
+{
+  "name": "gilded_rose",
+  "version": "1.0.0",
+  "description": "Code refactoring project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Catherine Li",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
